@@ -1,4 +1,4 @@
-# 🇦🇺 Melbourne CBD Retail Location Intelligence Analysis
+# Melbourne CBD Retail Location Intelligence Analysis
 
 ## 📌 Project Overview & Business Case
 A commercial brand wants to open a new flagship physical store in the Melbourne Central Business District (CBD). This data analytics project leverages municipal pedestrian sensor records to evaluate foot traffic density across key streets. 
